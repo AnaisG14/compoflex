@@ -1,0 +1,41 @@
+h1 {
+	color: #FFFFFF;
+	background-color: black;
+	text-align:center;
+}
+
+.mentions {
+	color: black;
+}
+
+.titre_prestation {
+	font-size: 2em;
+}
+
+@media all and (max-width: 576px) { 
+
+h5 {
+	font-size: 0.5em;
+}
+
+.reduction {
+	font-size: 0.75em;
+}
+
+.titre_prestation {
+	font-size: 1.2em;
+}
+
+.textesm {
+	font-size: 0.75em;
+}
+
+.btn {
+	font-size: 0.75em;
+}
+.mentions {
+	color: black;
+	font-size: 0.75em;
+}
+
+}
